@@ -1,0 +1,7 @@
+.places {
+  font-family: 'Inter', Arial, sans-serif;
+  margin-left: 148px;
+  margin-right: 148px;
+  display: grid;
+  grid-row-gap: 80px;
+}
