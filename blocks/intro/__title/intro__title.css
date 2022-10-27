@@ -4,6 +4,15 @@
   line-height: 58px;
   margin: 0;
   padding-bottom: 40px;
-  width: 690px;
-  height: 58px;
+  max-width: 690px;
+  max-height: 58px;
 }
+
+@media screen and (max-width: 586px) {
+  .intro__title {
+    font-size: 32px;
+    line-height: 35px;
+    max-height: 70px;
+  }
+}
+

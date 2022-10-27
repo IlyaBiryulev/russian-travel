@@ -1,7 +1,12 @@
 .places {
   font-family: 'Inter', Arial, sans-serif;
-  margin-left: 148px;
-  margin-right: 148px;
+  padding: 0 148px;
   display: grid;
   grid-row-gap: 80px;
+}
+
+@media screen and (max-width: 1140px) {
+  .places {
+    padding: 0 48px;
+  }
 }

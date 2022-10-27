@@ -4,6 +4,27 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 1005px;
-  margin: 0 148px;
+  max-width: 984px;
+  max-height: 1005px;
+  padding: 0 148px;
+}
+
+@media screen and (max-width: 1140px) {
+  .lead {
+    padding: 0 48px;
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .lead {
+    padding: 0;
+    max-width: 768px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .lead {
+    max-width: 320px;
+  }
 }
