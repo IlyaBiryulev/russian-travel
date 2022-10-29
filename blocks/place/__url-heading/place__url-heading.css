@@ -5,7 +5,7 @@
   letter-spacing: 2px;
   max-width: 456px;
   color: #AAA;
-  height: 12px;
+  max-height: 12px;
   margin: 0;
   padding-bottom: 12px;
 }

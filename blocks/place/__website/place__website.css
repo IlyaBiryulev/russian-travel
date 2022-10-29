@@ -2,3 +2,9 @@
   align-self: flex-end;
   margin: 0;
 }
+
+@media screen and (max-width: 568px) {
+  .place__website {
+    padding: 0 16px;
+  }
+}
