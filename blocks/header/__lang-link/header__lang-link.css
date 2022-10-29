@@ -8,13 +8,18 @@
 .header__lang-link:nth-child(1) {
   width: 30px;
   height: 28px;
-  padding-right: 18px;
+  margin-right: 18px;
 }
 
 .header__lang-link:nth-child(2) {
   text-decoration: none;
   width: 29px;
   height: 28px;
+}
+
+.header__lang-link:hover {
+  opacity: 0.5;
+  transition: 0.5s;
 }
 
 @media screen and (max-width: 568px) {
