@@ -6,6 +6,7 @@
   grid-template-rows: repeat(3, 1fr);
   gap: 16px;
   padding: 0 48px;
+  margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1124px) {
@@ -28,6 +29,7 @@
     justify-items: stretch;
     gap: 16px;
     padding: 0 24px;
+    margin-bottom: 88px;
   }
 }
 
@@ -40,5 +42,6 @@
     justify-items: stretch;
     gap: 12px;
     padding: 0 16px;
+    margin-bottom: 66px;
   }
 }
