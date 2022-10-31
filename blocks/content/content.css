@@ -1,5 +1,7 @@
 .content {
   margin: 56px 0 92px;
+  display: grid;
+  grid-row-gap: 92px;
 }
 
 @media screen and (max-width: 1124px) {
@@ -10,12 +12,15 @@
 
 @media screen and (max-width: 984px) {
   .content {
-    margin-bottom: 48px 0 90px;
+    grid-row-gap: 88px;
+    margin: 48px 0 90px;
   }
 }
 
 @media screen and (max-width: 568px) {
   .content {
-    margin-bottom: 48 0 64px;
+    grid-row-gap: 64px;
+    margin: 48px 0 64px;
   }
 }
+

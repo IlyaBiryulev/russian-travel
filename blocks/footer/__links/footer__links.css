@@ -1,4 +1,9 @@
-@media screen and (max-width: 568px) {
+.footer__links {
+  line-height: 0;
+  font-size: 0;
+}
+
+@media screen and (max-width: 689px) {
   .footer__links {
     display: flex;
     flex-direction: column;
