@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 591px) {
   .place {
     grid-template-columns: minmax(min-content, 1fr);
     max-width: 320px;
