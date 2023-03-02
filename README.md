@@ -23,7 +23,7 @@
 ```
 git clone https://github.com/IlyaBiryulev/russian-travel.git
 ```
-
+<h3><a href="https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0&t=n91bqM2FiKfhbvog-0">Ссылка на макет сайта</a></h3>
 <h3><a href="https://ilyabiryulev.github.io/russian-travel/">Ссылка на сайт</a></h3>
 
 
